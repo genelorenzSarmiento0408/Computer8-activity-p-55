@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+.number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+figure figcaption {
+  text-align: center;
+}
